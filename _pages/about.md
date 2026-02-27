@@ -24,7 +24,7 @@ I am currently looking for Ph.D. opportunities in **Embodied AI**, particularly 
 
 
 # 🔥 News
-- *2026.02*: &nbsp;🎉🎉 Our work on Embodied AI, **[OptimusVLA](https://arxiv.org/pdf/2602.20200)**, has been accepted to **CVPR 2026**!
+- *2026.02*: &nbsp;🎉🎉 work on Vision-Language-Action model,, **[OptimusVLA](https://arxiv.org/pdf/2602.20200)**, has been accepted to **CVPR 2026**!
 - *2025.02*: &nbsp;🎉🎉 Our work on Video-MLLM, **[LION-FS](https://arxiv.org/abs/2503.03663)**, has been accepted to **CVPR 2025**!
 - *2023.12*: &nbsp;🎉🎉 Our work on Multi-view Learning, **[DVIMC](https://ojs.aaai.org/index.php/AAAI/article/view/29548)**, has been accepted to **AAAI 2024**!
 - *2023.05*: &nbsp;🎉🎉 We received the Meritorious Winner award in the **MCM/ICM 2023**!
@@ -32,6 +32,17 @@ I am currently looking for Ph.D. opportunities in **Embodied AI**, particularly 
 # 📝 Publications 
 
 (* denotes corresponding author)
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/OptimusVLA.png' alt="sym" width="500px"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Global Prior Meets Local Consistency: Dual-Memory Augmented Vision-Language-Action Model for Efficient Robotic Manipulation**
+
+Zaijing Li, **<u>Bing Hu</u>**, Rui Shao*, Gongwei Chen, Dongmei Jiang*, Pengwei Xie, Jianye Hao, Liqiang Nie
+
+[**CVPR 2026**](https://cvpr.thecvf.com/Conferences/2026) / [Paper]（https://arxiv.org/pdf/2602.20200) / [Code](https://github.com/JiuTian-VL/OptimusVLA)
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/lion-fs.png' alt="sym" width="500px"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -39,8 +50,6 @@ I am currently looking for Ph.D. opportunities in **Embodied AI**, particularly 
 **LION-FS: Fast & Slow Video-Language Thinker as Online Video Assistant**
 
 Wei Li, **<u>Bing Hu</u>**, Rui Shao\*, Leyang Shen, Liqiang Nie
-
-<!-- LION-FS adopts a two-stage optimization strategy: 1) Fast Path: Routing-Based Response Determination evaluates frame-by-frame whether an immediate response is necessary. 2) Slow Path: Multi-granularity Keyframe Augmentation optimizes keyframes during response generation. -->
 
 [**CVPR 2025**](https://cvpr.thecvf.com/Conferences/2025) / [Paper](https://arxiv.org/abs/2503.03663) / [Code](https://github.com/JiuTian-VL/LION-FS)
 
