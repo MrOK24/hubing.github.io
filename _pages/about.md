@@ -39,7 +39,7 @@ I am currently looking for Ph.D. opportunities in **Embodied AI**, particularly 
 
 Zaijing Li, **<u>Bing Hu</u>**, Rui Shao*, Gongwei Chen, Dongmei Jiang*, Pengwei Xie, Jianye Hao, Liqiang Nie
 
-[**CVPR 2026**](https://cvpr.thecvf.com/Conferences/2026) / [Paper](https://arxiv.org/pdf/2602.20200) / [Code](https://github.com/JiuTian-VL/OptimusVLA)
+[**CVPR 2026**](https://arxiv.org/pdf/2602.20200) / [Paper](https://arxiv.org/pdf/2602.20200) / [Code](https://github.com/JiuTian-VL/OptimusVLA)
 
 </div>
 </div>
