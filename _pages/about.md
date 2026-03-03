@@ -68,7 +68,7 @@ Gehui Xu, Jie Wen\*, Chengliang Liu, **<u>Bing Hu</u>**, Yicheng Liu, Lunke Fei,
 </div>
 
 # 🎖 Honors and Awards
-- *2025.09* “Master's Academic Special Scholarship”, Harbin Institute of Technology
+- *2025.09* “Master's Academic Special Grade Scholarship”, Harbin Institute of Technology
 - *2024.09* “Master's Academic First-class Scholarship”, Harbin Institute of Technology
 - *2024.05* “Outstanding Graduate”, Harbin Institute of Technology
 - *2024.03* “Huawei Intelligent Base Scholarship”, Huawei
