@@ -24,7 +24,7 @@ I am currently looking for Ph.D. opportunities in **Embodied AI**, particularly 
 
 
 # 🔥 News
-- *2026.05*: &nbsp;🎉🎉 Our work, **BehaviorVLA**, has been accepted to **ICML 2026** as a <span style="color:#d62728"><strong>Spotlight (Top 2.2%)</strong></span>!
+- *2026.05*: &nbsp;🎉🎉 Our work on Vision-Language-Action model, **BehaviorVLA**, has been accepted to **ICML 2026** as a <span style="color:#d62728"><strong>Spotlight (Top 2.2%)</strong></span>!
 - *2026.02*: &nbsp;🎉🎉 Our work on Vision-Language-Action model, **[OptimusVLA](https://arxiv.org/pdf/2602.20200)**, has been accepted to **CVPR 2026**!
 - *2025.02*: &nbsp;🎉🎉 Our work on Video-MLLM, **[LION-FS](https://arxiv.org/abs/2503.03663)**, has been accepted to **CVPR 2025**!
 - *2023.12*: &nbsp;🎉🎉 Our work on Multi-view Learning, **[DVIMC](https://ojs.aaai.org/index.php/AAAI/article/view/29548)**, has been accepted to **AAAI 2024**!
