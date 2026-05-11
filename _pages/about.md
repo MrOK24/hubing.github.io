@@ -32,15 +32,15 @@ I am currently looking for Ph.D. opportunities in **Embodied AI**, particularly 
 # 📝 Publications 
 
 (* denotes corresponding author)
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026 <span style="color:#d62728">Spotlight</span></div><img src='images/BehaviorVLA.png' alt="sym" width="500px"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026 Spotlight</div><img src='images/BehaviorVLA.png' alt="sym" width="500px"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **From Abstraction to Instantiation: Learning Behavioral Representation for Vision-Language-Action Model**
 
-**<u>Bing Hu</u>**, Zaijing Li, Rui Shao, Junda Chen, April Hua Liu, Wei-Shi Zheng, Liqiang Nie
+**<u>Bing Hu</u>**, Zaijing Li, Rui Shao*, Junda Chen, April Hua Liu, Wei-Shi Zheng, Liqiang Nie
 
 
-**ICML 2026** <span style="color:#d62728"><strong>Spotlight</strong></span>
+**ICML 2026 Spotlight**
 
 </div>
 </div>
