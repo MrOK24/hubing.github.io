@@ -24,7 +24,7 @@ I am currently looking for Ph.D. opportunities in **Embodied AI**, particularly 
 
 
 # 🔥 News
-- *2026.05*: &nbsp;🎉🎉 Our work on Vision-Language-Action model, **[BehaviorVLA](https://arxiv.org/pdf/2605.22671)**, has been accepted to **ICML 2026** as a <span style="color:#d62728"><strong>Spotlight (Top 2.2%)</strong></span>!
+- *2026.05*: &nbsp;🎉🎉 Our work on Vision-Language-Action model, **[BehaviorVLA](https://arxiv.org/pdf/2605.22671)**, has been accepted to **ICML 2026** as a <span style="color:#d62728"><strong>Oral (Top 0.7%)</strong></span>!
 - *2026.02*: &nbsp;🎉🎉 Our work on Vision-Language-Action model, **[OptimusVLA](https://arxiv.org/pdf/2602.20200)**, has been accepted to **CVPR 2026**!
 - *2025.02*: &nbsp;🎉🎉 Our work on Video-MLLM, **[LION-FS](https://arxiv.org/abs/2503.03663)**, has been accepted to **CVPR 2025**!
 - *2023.12*: &nbsp;🎉🎉 Our work on Multi-view Learning, **[DVIMC](https://ojs.aaai.org/index.php/AAAI/article/view/29548)**, has been accepted to **AAAI 2024**!
@@ -32,7 +32,7 @@ I am currently looking for Ph.D. opportunities in **Embodied AI**, particularly 
 # 📝 Publications 
 
 (* denotes corresponding author)
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026 Spotlight</div><img src='images/BehaviorVLA.png' alt="sym" width="500px"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/BehaviorVLA.png' alt="sym" width="500px"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **From Abstraction to Instantiation: Learning Behavioral Representation for Vision-Language-Action Model**
@@ -40,7 +40,7 @@ I am currently looking for Ph.D. opportunities in **Embodied AI**, particularly 
 **<u>Bing Hu</u>**, Zaijing Li, Rui Shao*, Junda Chen, April Hua Liu, Wei-Shi Zheng, Liqiang Nie
 
 
-[**ICML 2026**](https://icml.cc/virtual/2026/poster/66596)/[Paper](https://arxiv.org/pdf/2605.22671)
+[**ICML 2026 Oral**](https://icml.cc/virtual/2026/poster/66596)/[Paper](https://arxiv.org/pdf/2605.22671)
 
 </div>
 </div>
