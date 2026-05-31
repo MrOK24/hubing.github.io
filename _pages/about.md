@@ -40,7 +40,7 @@ I am currently looking for Ph.D. opportunities in **Embodied AI**, particularly 
 **<u>Bing Hu</u>**, Zaijing Li, Rui Shao*, Junda Chen, April Hua Liu, Wei-Shi Zheng, Liqiang Nie
 
 
-[**ICML 2026 Oral**](https://icml.cc/virtual/2026/poster/66596) / [Paper](https://arxiv.org/pdf/2605.22671)
+[**ICML 2026 Oral**](https://icml.cc/virtual/2026/poster/66596) / [Paper](https://arxiv.org/pdf/2605.22671) / [Project page](https://mrok24.github.io/BehaviorVLA/)
 
 </div>
 </div>
@@ -52,7 +52,8 @@ I am currently looking for Ph.D. opportunities in **Embodied AI**, particularly 
 
 Zaijing Li, **<u>Bing Hu</u>**, Rui Shao\*, Gongwei Chen, Dongmei Jiang\*, Pengwei Xie, Jianye Hao, Liqiang Nie
 
-[**CVPR 2026**](https://arxiv.org/pdf/2602.20200) / [Paper](https://arxiv.org/pdf/2602.20200) / [Code](https://github.com/JiuTian-VL/OptimusVLA)
+[**CVPR 2026**](https://arxiv.org/pdf/2602.20200) / [Paper](https://arxiv.org/pdf/2602.20200) / [Project page](https://cybertronagent.github.io/OptimusVLA.github.io/))
+
 
 </div>
 </div>
