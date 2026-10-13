@@ -118,6 +118,20 @@ I am currently looking for Ph.D. opportunities in **Embodied AI**, particularly 
 <section class="profile-list-section profile-list-section--awards" aria-label="Awards">
   <ul class="profile-list">
     <li class="profile-list__item">
+      <time class="profile-list__date" datetime="2026-09">2026.09</time>
+      <span class="profile-list__content">
+        <span class="profile-list__title">Tat-Seng Chua Scholarship (4/600+)</span>
+        <span class="profile-list__meta">Harbin Institute of Technology (Shenzhen)</span>
+      </span>
+    </li>
+    <li class="profile-list__item">
+      <time class="profile-list__date" datetime="2026-09">2026.09</time>
+      <span class="profile-list__content">
+        <span class="profile-list__title">Master&#x27;s Academic Special Grade Scholarship</span>
+        <span class="profile-list__meta">Harbin Institute of Technology (Shenzhen)</span>
+      </span>
+    </li>
+    <li class="profile-list__item">
       <time class="profile-list__date" datetime="2025-09">2025.09</time>
       <span class="profile-list__content">
         <span class="profile-list__title">Master&#x27;s Academic Special Grade Scholarship</span>
