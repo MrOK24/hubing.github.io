@@ -1,0 +1,146 @@
+.particle-hero {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    isolation: isolate;
+    overflow: hidden;
+    box-sizing: border-box;
+    min-height: 360px;
+    margin: 0 0 28px;
+    padding: 25px 28px 22px;
+    border: 1px solid rgba(79, 115, 120, 0.14);
+    border-radius: 16px;
+    background: radial-gradient(ellipse at 50% 43%, #d5e5e3 0, rgba(232, 239, 237, 0.7) 38%, transparent 72%), var(--site-bg, #f3f6f5);
+    color: #687779;
+}
+
+.particle-hero::before,
+.particle-hero::after {
+    content: "";
+    position: absolute;
+    z-index: -1;
+    width: 310px;
+    height: 310px;
+    border: 1px solid rgba(79, 115, 120, 0.10);
+    border-radius: 50%;
+    pointer-events: none;
+}
+
+.particle-hero::before { top: -195px; right: -80px; }
+.particle-hero::after { bottom: -245px; left: -60px; width: 400px; height: 400px; }
+
+.particle-hero__canvas {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+}
+
+.particle-hero__footer {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 12px;
+    margin-top: auto;
+}
+
+.particle-hero__coordinate {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    font: 9px/1.5 "SFMono-Regular", Consolas, monospace;
+    letter-spacing: 0.1em;
+    color: #687779;
+}
+
+.particle-hero .particle-hero__sound {
+    display: inline-flex;
+    align-items: center;
+    flex-shrink: 0;
+    gap: 7px;
+    min-height: 36px;
+    margin: -8px -10px -8px 0;
+    padding: 8px 10px;
+    border: 1px solid transparent;
+    border-radius: 20px;
+    background: transparent;
+    box-shadow: none;
+    color: #687779;
+    font: 10px/1.2 "SFMono-Regular", Consolas, monospace;
+    text-transform: none;
+    cursor: pointer;
+    transition: background 0.4s, color 0.4s;
+}
+
+.particle-hero .particle-hero__sound:hover { color: #30383b; background: rgba(79, 115, 120, 0.08); }
+.particle-hero .particle-hero__sound:focus-visible { outline: 2px solid #4f7378; outline-offset: 3px; }
+.particle-hero [hidden] { display: none; }
+.particle-hero__sound-waves { display: none; }
+.particle-hero__sound[aria-pressed="true"] .particle-hero__sound-waves { display: block; }
+.particle-hero__sound[aria-pressed="true"] .particle-hero__sound-slash { display: none; }
+
+.particle-hero__intro {
+    position: relative;
+    padding: 48px 0 42px;
+    text-align: center;
+    pointer-events: none;
+}
+
+.particle-hero .particle-hero__eyebrow {
+    margin: 0 0 8px;
+    color: #687779;
+    font: 14px/1.5 "SFMono-Regular", Consolas, monospace;
+    letter-spacing: 0.24em;
+}
+
+.page__content .particle-hero__title {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font: 500 clamp(40px, 5.5vw, 70px)/1.25 Georgia, "Times New Roman", serif;
+    letter-spacing: -0.045em;
+    color: #4f7378;
+}
+
+.page__content .particle-hero__title::before { display: none; }
+.particle-hero__title-line { display: inline-block; }
+.particle-hero.is-ready .particle-hero__title { color: transparent; }
+
+.particle-hero .particle-hero__welcome {
+    margin: 14px 0 0;
+    color: #4f7378;
+    font: italic 17px/1.5 Georgia, "Times New Roman", serif;
+}
+
+.particle-hero .particle-hero__research {
+    margin: 12px 0 0;
+    color: #687779;
+    font: 10px/1.5 "SFMono-Regular", Consolas, monospace;
+    letter-spacing: 0.055em;
+}
+
+.particle-hero__research span { margin: 0 9px; color: #b1c5c3; }
+.particle-hero.is-animated .particle-hero__coordinate { animation: hero-float 12s ease-in-out -4s infinite; }
+@keyframes hero-float { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-3px); } }
+
+@media (max-width: 600px) {
+    .particle-hero { min-height: 320px; padding: 22px 18px 20px; border-radius: 12px; }
+    .particle-hero__intro { padding: 43px 0 34px; }
+    .particle-hero .particle-hero__eyebrow { font-size: 13px; letter-spacing: 0.18em; }
+    .page__content .particle-hero__title { font-size: clamp(36px, 10.5vw, 50px); }
+    .particle-hero__title-line { display: block; width: fit-content; margin: 0 auto; }
+    .particle-hero .particle-hero__welcome { font-size: 15px; }
+    .particle-hero .particle-hero__sound { min-height: 44px; font-size: 9px; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+    .particle-hero.is-animated .particle-hero__coordinate { animation: none; }
+}
+
+@media print {
+    .particle-hero { min-height: auto; background: none; border: none; }
+    .particle-hero__canvas, .particle-hero__footer { display: none; }
+    .particle-hero.is-ready .particle-hero__title { color: #4f7378; }
+}

@@ -1,4 +1,7 @@
-<script src="assets/js/main.min.js"></script>
+<script src="{{ "/assets/js/main.min.js" | relative_url }}"></script>
+<script src="{{ "/assets/js/custom-scripts.js" | relative_url }}"></script>
 
 {% include analytics.html %}
-{% include fetch_google_scholar_stats.html %}
+{% if content contains 'show_paper_citations' or content contains 'id="total_cit"' %}
+  {% include fetch_google_scholar_stats.html %}
+{% endif %}

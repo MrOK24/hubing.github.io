@@ -22,13 +22,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Bing Hu (胡冰)"
-  avatar           : "images/person.jpg"
-  bio              : "Harbin Institute of Technology, Shenzhen"
+  avatar           : "images/bing-hu-portrait.jpeg"
+  bio              : "Harbin Institute of Technology (Shenzhen)"
   location         : "Shenzhen, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=rxaiRMUAAAAJ&hl=en"
-  email            : "24S151117@stu.hit.edu.cn"
+  email            : "hubing1401@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "MrOK24"
   google_plus      :
   keybase          :
   instagram        :
