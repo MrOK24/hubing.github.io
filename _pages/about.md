@@ -21,7 +21,7 @@ I am currently looking for Ph.D. opportunities in **Embodied AI**, particularly 
   <ul class="profile-list">
     <li class="profile-list__item">
       <time class="profile-list__date" datetime="2026-09">2026.09</time>
-      <span class="profile-list__content"><span class="profile-list__title">🎉 I was awarded the <strong>Tat-Seng Chua Scholarship</strong> (<strong class="pub-oral">4/600+</strong>)!</span></span>
+      <span class="profile-list__content"><span class="profile-list__title">🎉🎉 I am a recipient of the <strong>Tat-Seng Chua Scholarship</strong> (<strong class="pub-oral">4/600+</strong>)!</span></span>
     </li>
     <li class="profile-list__item">
       <time class="profile-list__date" datetime="2026-05">2026.05</time>
