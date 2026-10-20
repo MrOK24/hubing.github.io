@@ -554,11 +554,10 @@ body,
     display: inline-flex;
     align-items: baseline;
     gap: 0.45rem;
-    padding: 0.25rem 0.7rem;
-    border-radius: 6px;
-    background: #e0ecea;
+    padding: 0;
+    background: transparent;
     color: #4f7378;
-    font-size: 1.05rem;
+    font-size: 1rem;
     line-height: 1.45;
     white-space: nowrap;
     font-variant-numeric: tabular-nums;
@@ -571,7 +570,7 @@ body,
 
 .resume-rank strong {
     font-size: inherit;
-    font-weight: 700;
+    font-weight: 600;
 }
 
 @media (max-width: 768px) {
@@ -619,11 +618,6 @@ body,
     .resume-list--education .resume-period {
         font-size: 1rem;
         font-weight: 500;
-    }
-
-    .resume-rank {
-        font-size: 1.05rem;
-        padding: 0.25rem 0.6rem;
     }
 }
 

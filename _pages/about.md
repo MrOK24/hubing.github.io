@@ -173,7 +173,7 @@ I am currently looking for Ph.D. opportunities in **Embodied AI**, particularly 
     <li class="profile-list__item">
       <time class="profile-list__date" datetime="2023-05">2023.05</time>
       <span class="profile-list__content">
-        <span class="profile-list__title">Meritorious Winner in the Mathematical Contest in Modeling/Interdisciplinary Contest in Modeling (MCM/ICM)</span>
+        <span class="profile-list__title">Meritorious Winner in the MCM / ICM</span>
         <span class="profile-list__meta">America</span>
       </span>
     </li>
