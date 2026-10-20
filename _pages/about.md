@@ -20,6 +20,10 @@ I am currently looking for Ph.D. opportunities in **Embodied AI**, particularly 
 <section class="profile-list-section profile-list-section--news" aria-label="Latest news" tabindex="0">
   <ul class="profile-list">
     <li class="profile-list__item">
+      <time class="profile-list__date" datetime="2026-09">2026.09</time>
+      <span class="profile-list__content"><span class="profile-list__title">🎉 I was awarded the <strong>Tat-Seng Chua Scholarship</strong> (<strong class="pub-oral">4/600+</strong>)!</span></span>
+    </li>
+    <li class="profile-list__item">
       <time class="profile-list__date" datetime="2026-05">2026.05</time>
       <span class="profile-list__content"><span class="profile-list__title">🎉🎉 Our work on Vision-Language-Action model, <strong><a href="https://arxiv.org/pdf/2605.22671">BehaviorVLA</a></strong>, has been accepted to <strong>ICML 2026</strong> as an <span class="pub-oral"><strong>Oral (Top 0.7%)</strong></span>!</span></span>
     </li>
@@ -171,27 +175,6 @@ I am currently looking for Ph.D. opportunities in **Embodied AI**, particularly 
       <span class="profile-list__content">
         <span class="profile-list__title">Meritorious Winner in the Mathematical Contest in Modeling/Interdisciplinary Contest in Modeling (MCM/ICM)</span>
         <span class="profile-list__meta">America</span>
-      </span>
-    </li>
-    <li class="profile-list__item">
-      <time class="profile-list__date" datetime="2022-11">2022.11</time>
-      <span class="profile-list__content">
-        <span class="profile-list__title">Bachelor&#x27;s Academic Second-class Scholarship</span>
-        <span class="profile-list__meta">Harbin Institute of Technology (Shenzhen)</span>
-      </span>
-    </li>
-    <li class="profile-list__item">
-      <time class="profile-list__date" datetime="2022-10">2022.10</time>
-      <span class="profile-list__content">
-        <span class="profile-list__title">First Prize in the China Undergraduate Mathematical Contest in Modeling</span>
-        <span class="profile-list__meta">Guangdong Province</span>
-      </span>
-    </li>
-    <li class="profile-list__item">
-      <time class="profile-list__date" datetime="2021-11">2021.11</time>
-      <span class="profile-list__content">
-        <span class="profile-list__title">Bachelor&#x27;s Academic Third-class Scholarship</span>
-        <span class="profile-list__meta">Harbin Institute of Technology (Shenzhen)</span>
       </span>
     </li>
   </ul>
