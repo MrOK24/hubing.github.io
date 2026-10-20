@@ -206,7 +206,10 @@ I am currently looking for Ph.D. opportunities in **Embodied AI**, particularly 
     <div class="resume-content">
       <div class="resume-title"><strong>Harbin Institute of Technology (Shenzhen)</strong></div>
       <div class="resume-detail">Master in Electronic Information Engineering (Computer Technology)</div>
-      <div class="resume-period">2024.09 – Present</div>
+      <div class="resume-education-meta">
+        <div class="resume-period">2024.09 – Present</div>
+        <div class="resume-rank"><span class="resume-rank__label">Rank</span><strong>5/194</strong></div>
+      </div>
     </div>
   </div>
   <div class="resume-item">
@@ -216,7 +219,10 @@ I am currently looking for Ph.D. opportunities in **Embodied AI**, particularly 
     <div class="resume-content">
       <div class="resume-title"><strong>Harbin Institute of Technology (Shenzhen)</strong></div>
       <div class="resume-detail">B.Eng. in Computer Science and Technology</div>
-      <div class="resume-period">2020.09 – 2024.06</div>
+      <div class="resume-education-meta">
+        <div class="resume-period">2020.09 – 2024.06</div>
+        <div class="resume-rank"><span class="resume-rank__label">Rank</span><strong>35/526</strong></div>
+      </div>
     </div>
   </div>
 </div>

@@ -537,6 +537,55 @@ body,
     font-weight: 600;
 }
 
+.resume-education-meta {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0.35rem 0.85rem;
+    margin-top: 0.48rem;
+}
+
+.resume-education-meta .resume-period {
+    margin-top: 0;
+}
+
+.resume-rank {
+    display: inline-flex;
+    align-items: baseline;
+    gap: 0.4rem;
+    padding-left: 0.85rem;
+    border-left: 1px solid #cdd5d4;
+    color: #4f7378;
+    font-size: 0.98rem;
+    line-height: 1.5;
+    white-space: nowrap;
+    font-variant-numeric: tabular-nums;
+}
+
+.resume-rank__label {
+    color: #687779;
+    font-size: 0.86em;
+    font-weight: 400;
+}
+
+.resume-rank strong {
+    font-weight: 600;
+}
+
+@media (max-width: 768px) {
+    .resume-education-meta {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 0.18rem;
+    }
+
+    .resume-rank {
+        padding-left: 0;
+        border-left: none;
+        font-size: 0.92rem;
+    }
+}
+
 .resume-list--timeline {
     position: relative;
     padding-left: 0;
